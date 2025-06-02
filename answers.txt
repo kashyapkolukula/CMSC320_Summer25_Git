@@ -9,3 +9,7 @@ Answer: Data science can be applied to healthcare, like predicting disease outbr
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: They are both used to integrate changes from one branch into another but the main difference is merge preserves commit history. Rebase rewrites the commit history.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm really excited to learn how Data Science and Machine Learning tie into one another, and by the end of this summer, confidently say "I am a Data Scientist!" I hope to use these skills throughout my career in the future.
